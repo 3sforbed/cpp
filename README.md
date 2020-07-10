@@ -1,2 +1,2 @@
 # C++
-Everything in C
+Everything in C++
