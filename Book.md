@@ -15,4 +15,5 @@
     《More Effective C++ 》《Exceptional C++ 》《More Exceptional C++》《Exceptional C++ Style》《C++编程规范(C++ Coding Standards) 》《C++ 模板完全指南(C++ Templates: The Complete Guide)》《Beyond the C++ Standard Library(Boost)》《C和C++安全编码》《深入理解C++11》
 
 四.高级成神系列：
+
     《C++设计新思维-泛型编程与设计模式之应用(Modern C++ Design ) 》《C++模板元编程(C++ Template Metaprogramming)》《C++ Concurrency In Action》《Advanced c++ Programming Styles and Idioms 》《Real-Time C++ Efficient Object-Oriented and Template Microcontroller Programming》《Advanced_Metaprogramming_in_Classic_C 》
