@@ -8,6 +8,6 @@
   
   [C++ 利用 QT 实现 PDF 阅读器](https://www.lanqiao.cn/courses/1186)
   
-  [Qt Documentation](https://doc.qt.io/qt-5/gettingstarted.html)
+  [Qt Documentation](https://doc.qt.io/qt-5/index.html)
   
   [A Book about Qt5](https://qmlbook.github.io/)
