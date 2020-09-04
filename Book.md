@@ -16,7 +16,6 @@
     《C++编程思想（Thinking in C++) 》
     《C++程序设计原理与实践（Programming: Principles and Practice Using C++ ）》
     《C++初学者指南》
-    《C++ Primer Plus》
     《面向对象程序设计—C++语言描述》
     《数据结构(C++语言版)第三版_邓俊辉》
     
