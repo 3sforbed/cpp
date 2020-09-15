@@ -16,4 +16,8 @@
   
   [A Book about Qt5](https://qmlbook.github.io/)
   
+  [100 行 C++ 代码实现线程池](https://www.lanqiao.cn/courses/565)
+  
+  [C++ 实现 Web 服务框架](https://www.lanqiao.cn/courses/568)
+  
   
